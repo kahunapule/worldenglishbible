@@ -1022,7 +1022,7 @@
 \v 9 With my soul have I desired you in the night. Yes, with my spirit within me will I seek you earnestly; for when your judgments are in the earth, the inhabitants of the world learn righteousness.
 \v 10 Let favor be shown to the wicked, yet he will not learn righteousness. In the land of uprightness he will deal wrongfully, and will not see Yahweh’s majesty.
 \v 11 Yahweh, your hand is lifted up, yet they don’t see; but they will see your zeal for the people, and be disappointed. Yes, fire will consume your adversaries.
-\v 12 Yahweh, you will ordain peace for us, for you have also worked all our works for us.
+\v 12 Yahweh, you will ordain peace for us, for you have also done all our work for us.
 \v 13 Yahweh our God, other lords besides you have had dominion over us, but by you only will we make mention of your name.
 \v 14 The dead shall not live. The departed spirits shall not rise. Therefore you have visited and destroyed them, and caused all memory of them to perish.
 \v 15 You have increased the nation, O Yahweh. You have increased the nation! You are glorified! You have enlarged all the borders of the land.
@@ -1100,7 +1100,7 @@
 \v 13 The Lord said, “Because this people draws near with their mouth and with their lips to honor me, but they have removed their heart far from me, and their fear of me is a commandment of men which has been taught;
 \v 14 therefore, behold, I will proceed to do a marvelous work among this people, even a marvelous work and a wonder; and the wisdom of their wise men will perish, and the understanding of their prudent men will be hidden.”
 \p
-\v 15 Woe to those who deeply hide their counsel from Yahweh, and whose works are in the dark, and who say, “Who sees us?” and “Who knows us?”
+\v 15 Woe to those who deeply hide their counsel from Yahweh, and whose deeds are in the dark, and who say, “Who sees us?” and “Who knows us?”
 \v 16 You turn things upside down! Should the potter be thought to be like clay; that the thing made should say about him who made it, “He didn’t make me”; or the thing formed say of him who formed it, “He has no understanding?”
 \p
 \v 17 Isn’t it yet a very little while, and Lebanon will be turned into a fruitful field, and the fruitful field will be regarded as a forest?
@@ -1919,7 +1919,7 @@
 \v 28 When I look, there is no man;
 \q2 even among them there is no counselor who, when I ask of them, can answer a word.
 \q1
-\v 29 Behold, all of them, their works are vanity and nothing.
+\v 29 Behold, all of them, their deeds are vanity and nothing.
 \q2 Their molten images are wind and confusion.
 \c 42
 \q1
@@ -3555,28 +3555,102 @@
 \q2 and I will feed you with the heritage of Jacob your father:”
 \q2 for Yahweh’s mouth has spoken it.
 \c 59
-\p
-\v 1 Behold, Yahweh’s hand is not shortened, that it can’t save; neither his ear heavy, that it can’t hear:
-\v 2 but your iniquities have separated between you and your God, and your sins have hidden his face from you, so that he will not hear.
-\v 3 For your hands are defiled with blood, and your fingers with iniquity; your lips have spoken lies, your tongue mutters wickedness.
-\v 4 No one sues in righteousness, and no one pleads in truth: they trust in vanity, and speak lies; they conceive mischief, and give birth to iniquity.
-\v 5 They hatch adders’ eggs, and weave the spider’s web: he who eats of their eggs dies; and that which is crushed breaks out into a viper.
-\v 6 Their webs shall not become garments, neither shall they cover themselves with their works: their works are works of iniquity, and the act of violence is in their hands.
-\v 7 Their feet run to evil, and they make haste to shed innocent blood: their thoughts are thoughts of iniquity; desolation and destruction are in their paths.
-\v 8 The way of peace they don’t know; and there is no justice in their goings: they have made them crooked paths; whoever goes therein does not know peace.
-\v 9 Therefore is justice far from us, neither does righteousness overtake us: we look for light, but, behold, darkness; for brightness, but we walk in obscurity.
-\v 10 We grope for the wall like the blind; yes, we grope as those who have no eyes: we stumble at noonday as in the twilight; among those who are lusty we are as dead men.
-\v 11 We roar all like bears, and moan bitterly like doves: we look for justice, but there is none; for salvation, but it is far off from us.
+\q1
+\v 1 Behold, Yahweh’s hand is not shortened, that it can’t save;
+\q2 nor his ear dull, that it can’t hear.
+\q1
+\v 2 But your iniquities have separated you and your God,
+\q2 and your sins have hidden his face from you,
+\q2 so that he will not hear.
+\q1
+\v 3 For your hands are defiled with blood,
+\q2 and your fingers with iniquity.
+\q1 Your lips have spoken lies.
+\q2 Your tongue mutters wickedness.
+\q1
+\v 4 No one sues in righteousness,
+\q2 and no one pleads in truth.
+\q1 They trust in vanity,
+\q2 and speak lies.
+\q1 They conceive mischief,
+\q2 and give birth to iniquity.
+\q1
+\v 5 They hatch adders’ eggs,
+\q2 and weave the spider’s web.
+\q1 He who eats of their eggs dies;
+\q2 and that which is crushed breaks out into a viper.
+\q1
+\v 6 Their webs won’t become garments.
+\q2 They won’t cover themselves with their works.
+\q1 Their works are works of iniquity,
+\q2 and acts of violence are in their hands.
+\q1
+\v 7 Their feet run to evil,
+\q2 and they hurry to shed innocent blood.
+\q1 Their thoughts are thoughts of iniquity.
+\q2 desolation and destruction are in their paths.
+\q1
+\v 8 They don’t know the way of peace;
+\q2 and there is no justice in their ways.
+\q1 They have made crooked paths for themselves;
+\q2 whoever goes in them doesn’t know peace.
+\q1
+\v 9 Therefore is justice far from us,
+\q2 and righteousness doesn’t overtake us.
+\q1 We look for light, but see darkness;
+\q2 for brightness, but we walk in obscurity.
+\q1
+\v 10 We grope for the wall like the blind.
+\q2 Yes, we grope as those who have no eyes.
+\q1 We stumble at noon as if it were twilight.
+\q2 Among those who are strong, we are like dead men.
+\q1
+\v 11 We all roar like bears,
+\q2 and moan bitterly like doves.
+\q1 We look for justice, but there is none;
+\q2 for salvation, but it is far off from us.
 \b
 \q1
-\v 12 For our transgressions are multiplied before you, and our sins testify against us; for our transgressions are with us, and as for our iniquities, we know them:
-\v 13 transgressing and denying Yahweh, and turning away from following our God, speaking oppression and revolt, conceiving and uttering from the heart words of falsehood.
-\v 14 Justice is turned away backward, and righteousness stands afar off; for truth is fallen in the street, and uprightness can’t enter.
-\v 15 Yes, truth is lacking; and he who departs from evil makes himself a prey. Yahweh saw it, and it displeased him that there was no justice.
-\v 16 He saw that there was no man, and wondered that there was no intercessor: therefore his own arm brought salvation to him; and his righteousness, it upheld him.
-\v 17 He put on righteousness as a breastplate, and a helmet of salvation on his head; and he put on garments of vengeance for clothing, and was clad with zeal as a mantle.
-\v 18 According to their deeds, accordingly he will repay, wrath to his adversaries, recompense to his enemies; to the islands he will repay recompense.
-\v 19 So shall they fear Yahweh’s name from the west, and his glory from the rising of the sun; for he will come as a rushing stream, which the breath of Yahweh drives.
+\v 12 For our transgressions are multiplied before you,
+\q2 and our sins testify against us;
+\q1 for our transgressions are with us,
+\q2 and as for our iniquities, we know them:
+\q1
+\v 13 transgressing and denying Yahweh,
+\q2 and turning away from following our God,
+\q2 speaking oppression and revolt,
+\q2 conceiving and uttering from the heart words of falsehood.
+\q1
+\v 14 Justice is turned away backward,
+\q2 and righteousness stands far away;
+\q1 for truth has fallen in the street,
+\q2 and uprightness can’t enter.
+\q1
+\v 15 Yes, truth is lacking;
+\q2 and he who departs from evil makes himself a prey.
+\q1 Yahweh saw it,
+\q2 and it displeased him that there was no justice.
+\q1
+\v 16 He saw that there was no man,
+\q2 and wondered that there was no intercessor.
+\q1 Therefore his own arm brought salvation to him;
+\q2 and his righteousness sustained him.
+\q1
+\v 17 He put on righteousness as a breastplate,
+\q2 and a helmet of salvation on his head.
+\q1 He put on garments of vengeance for clothing,
+\q2 and was clad with zeal as a mantle.
+\q1
+\v 18 According to their deeds,
+\q2 he will repay as appropriate,
+\q2 wrath to his adversaries,
+\q2 recompense to his enemies;
+\q2 he will repay the islands their due.
+\q1
+\v 19 So shall they fear Yahweh’s name from the west,
+\q2 and his glory from the rising of the sun;
+\q1 for he will come as a rushing stream,
+\q2 which Yahweh’s breath drives.
 \b
 \q1
 \v 20 “A Redeemer will come to Zion,
@@ -3682,7 +3756,7 @@
 \v 6 I trod down the peoples in my anger, and made them drunk in my wrath, and I poured out their lifeblood on the earth.”
 \b
 \q1
-\v 7 I will make mention of the loving kindnesses of Yahweh and the praises of Yahweh, according to all that Yahweh has bestowed on us, and the great goodness toward the house of Israel, which he has bestowed on them according to his mercies, and according to the multitude of his loving kindnesses.
+\v 7 I will make mention of the loving kindnesses of Yahweh and the praises of Yahweh, according to all that Yahweh has given to us, and the great goodness toward the house of Israel, which he has given to them according to his mercies, and according to the multitude of his loving kindnesses.
 \v 8 For he said, “Surely, they are my people, children who will not deal falsely:” so he was their Savior.
 \q1
 \v 9 In all their affliction he was afflicted, and the angel of his presence saved them: in his love and in his pity he redeemed them; and he bore them, and carried them all the days of old.
@@ -3707,7 +3781,7 @@
 \v 2 as when fire kindles the brushwood, and the fire causes the waters to boil; to make your name known to your adversaries, that the nations may tremble at your presence!
 \v 3 When you did awesome things which we didn’t look for, you came down, the mountains quaked at your presence.
 \v 4 For from of old men have not heard, nor perceived by the ear, neither has the eye seen a God besides you, who works for him who waits for him.
-\v 5 You meet him who rejoices and works righteousness, those who remember you in your ways. Behold, you were angry, and we sinned. We have been in sin for a long time; and shall we be saved?
+\v 5 You meet him who rejoices and does righteousness, those who remember you in your ways. Behold, you were angry, and we sinned. We have been in sin for a long time; and shall we be saved?
 \v 6 For we have all become as one who is unclean, and all our righteousness is as a polluted garment: and we all fade as a leaf; and our iniquities, like the wind, take us away.
 \v 7 There is no one who calls on your name, who stirs up himself to take hold of you; for you have hidden your face from us, and have consumed us by means of our iniquities.
 \b
