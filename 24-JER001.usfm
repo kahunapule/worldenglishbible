@@ -1056,141 +1056,395 @@
 
 \c 15
 \p
-\v 1 Then Yahweh said to me, Though Moses and Samuel stood before me, yet my mind would not be toward this people: cast them out of my sight, and let them go out.
-\v 2 It shall happen, when they tell you, Where shall we go out? Then you shall tell them, Yahweh says: Such as are for death, to death; and such as are for the sword, to the sword; and such as are for the famine, to the famine; and such as are for captivity, to captivity.
-\v 3 I will appoint over them four kinds, says Yahweh: the sword to kill, and the dogs to tear, and the birds of the sky, and the animals of the earth, to devour and to destroy.
+\v 1 Then Yahweh said to me, “Though Moses and Samuel stood before me, yet my mind would not be toward this people. Cast them out of my sight, and let them go out!
+\v 2 It shall happen, when they tell you, ‘Where shall we go out?’ Then you shall tell them, ‘Yahweh says:
+\q1 “Such as are for death, to death;
+\q1 and such as are for the sword, to the sword;
+\q1 and such as are for the famine, to the famine;
+\q1 and such as are for captivity, to captivity.”’
+\p
+\v 3 “I will appoint over them four kinds,” says Yahweh: “the sword to kill, and the dogs to tear, and the birds of the sky, and the animals of the earth, to devour and to destroy.
 \v 4 I will cause them to be tossed back and forth among all the kingdoms of the earth, because of Manasseh, the son of Hezekiah, king of Judah, for that which he did in Jerusalem.
-\v 5 For who will have pity on you, Jerusalem? or who will bemoan you? or who will turn aside to ask of your welfare?
-\v 6 You have rejected me, says Yahweh, you have gone backward: therefore have I stretched out my hand against you, and destroyed you; I am weary with repenting.
-\v 7 I have winnowed them with a fan in the gates of the land; I have bereaved them of children, I have destroyed my people; they didn’t return from their ways.
-\v 8 Their widows are increased to me above the sand of the seas; I have brought on them against the mother of the young men a destroyer at noonday: I have caused anguish and terrors to fall on her suddenly.
-\v 9 She who has borne seven languishes; she has given up the spirit; her sun is gone down while it was yet day; she has been disappointed and confounded: and their residue will I deliver to the sword before their enemies, says Yahweh.
-\v 10 Woe is me, my mother, that you have borne me a man of strife and a man of contention to the whole earth! I have not lent, neither have men lent to me; yet everyone of them curses me.
-\v 11 Yahweh said, Most certainly I will strengthen you for good; most certainly I will cause the enemy to make supplication to you in the time of evil and in the time of affliction.
-\v 12 Can one break iron, even iron from the north, and brass?
-\v 13 Your substance and your treasures will I give for a plunder without price, and that for all your sins, even in all your borders.
-\v 14 I will make them to pass with your enemies into a land which you don’t know; for a fire is kindled in my anger, which shall burn on you.
-\v 15 Yahweh, you know; remember me, and visit me, and avenge me of my persecutors; you are patient, so don’t take me away. Know that for your sake I have suffered reproach.
-\v 16 Your words were found, and I ate them; and your words were to me a joy and the rejoicing of my heart: for I am called by your name, Yahweh, God of Armies.
-\v 17 I didn’t sit in the assembly of those who make merry, nor rejoiced; I sat alone because of your hand; for you have filled me with indignation.
-\v 18 Why is my pain perpetual, and my wound incurable, which refuses to be healed? Will you indeed be to me as a deceitful brook, like waters that fail?
-\v 19 Therefore Yahweh says, If you return, then I will bring you again, that you may stand before me; and if you take out the precious from the vile, you shall be as my mouth: they shall return to you, but you shall not return to them.
-\v 20 I will make you to this people a fortified bronze wall; and they shall fight against you, but they shall not prevail against you; for I am with you to save you and to deliver you, says Yahweh.
-\v 21 I will deliver you out of the hand of the wicked, and I will redeem you out of the hand of the terrible.
+\q1
+\v 5 For who will have pity on you, Jerusalem?
+\q2 or who will bemoan you?
+\q2 or who will turn aside to ask of your welfare?
+\q1
+\v 6 You have rejected me,” says Yahweh.
+\q2 “You have gone backward:
+\q1 therefore have I stretched out my hand against you,
+\q2 and destroyed you;
+\q2 I am weary with repenting.
+\q1
+\v 7 I have winnowed them with a fan in the gates of the land;
+\q2 I have bereaved them of children.
+\q1 I have destroyed my people.
+\q2 They didn’t return from their ways.
+\q1
+\v 8 Their widows are increased to me above the sand of the seas;
+\q2 I have brought on them against the mother of the young men a destroyer at noonday.
+\q2 I have caused anguish and terrors to fall on her suddenly.
+\q1
+\v 9 She who has borne seven languishes;
+\q2 she has given up the spirit.
+\q1 Her sun has gone down while it was yet day.
+\q2 She has been disappointed and confounded:
+\q2 and their residue will I deliver to the sword before their enemies,” says Yahweh.
+\b
+\q1
+\v 10 Woe is me, my mother, that you have borne me a man of strife
+\q2 and a man of contention to the whole earth!
+\q1 I have not lent, neither have men lent to me;
+\q2 yet everyone of them curses me.
+\p
+\v 11 Yahweh said,
+\q1 “Most certainly I will strengthen you for good.
+\q2 Most certainly I will cause the enemy to make supplication to you in the time of evil
+\q2 and in the time of affliction.
+\q1
+\v 12 Can one break iron,
+\q2 even iron from the north, and brass?
+\q1
+\v 13 Your substance and your treasures will I give for a plunder without price,
+\q2 and that for all your sins,
+\q2 even in all your borders.
+\q1
+\v 14 I will make them to pass with your enemies into a land which you don’t know;
+\q2 for a fire is kindled in my anger,
+\q2 which shall burn on you.”
+\b
+\q1
+\v 15 Yahweh, you know;
+\q2 remember me, and visit me,
+\q2 and avenge me of my persecutors.
+\q1 You are patient, so don’t take me away.
+\q2 Know that for your sake I have suffered reproach.
+\q1
+\v 16 Your words were found,
+\q2 and I ate them.
+\q1 Your words were to me a joy and the rejoicing of my heart,
+\q2 for I am called by your name, Yahweh, God of Armies.
+\q1
+\v 17 I didn’t sit in the assembly of those who make merry, nor rejoiced;
+\q2 I sat alone because of your hand;
+\q2 for you have filled me with indignation.
+\q1
+\v 18 Why is my pain perpetual,
+\q2 and my wound incurable,
+\q2 which refuses to be healed?
+\q1 Will you indeed be to me as a deceitful brook,
+\q2 like waters that fail?
+\p
+\v 19 Therefore Yahweh says,
+\q1 “If you return, then I will bring you again,
+\q2 that you may stand before me;
+\q1 and if you take out the precious from the vile,
+\q2 you shall be as my mouth.
+\q1 They shall return to you,
+\q2 but you shall not return to them.
+\q1
+\v 20 I will make you to this people a fortified bronze wall;
+\q2 and they shall fight against you,
+\q2 but they shall not prevail against you;
+\q1 for I am with you to save you
+\q2 and to deliver you,” says Yahweh.
+\q1
+\v 21 “I will deliver you out of the hand of the wicked,
+\q2 and I will redeem you out of the hand of the terrible.”
 \c 16
 \p
 \v 1 Yahweh’s word came also to me, saying,
-\v 2 You shall not take a wife, neither shall you have sons or daughters, in this place.
+\v 2 “You shall not take a wife, neither shall you have sons or daughters, in this place.”
 \v 3 For Yahweh says concerning the sons and concerning the daughters who are born in this place, and concerning their mothers who bore them, and concerning their fathers who became their father in this land:
-\v 4 They shall die grievous deaths: they shall not be lamented, neither shall they be buried; they shall be as dung on the surface of the ground; and they shall be consumed by the sword, and by famine; and their dead bodies shall be food for the birds of the sky, and for the animals of the earth.
-\v 5 For Yahweh says, Don’t enter into the house of mourning, neither go to lament, neither bemoan them; for I have taken away my peace from this people, says Yahweh, even loving kindness and tender mercies.
+\v 4 “They shall die grievous deaths: they shall not be lamented, neither shall they be buried; they shall be as dung on the surface of the ground; and they shall be consumed by the sword, and by famine; and their dead bodies shall be food for the birds of the sky, and for the animals of the earth.”
+\p
+\v 5 For Yahweh says, “Don’t enter into the house of mourning, neither go to lament, neither bemoan them; for I have taken away my peace from this people,” says Yahweh, “even loving kindness and tender mercies.
 \v 6 Both great and small shall die in this land; they shall not be buried, neither shall men lament for them, nor cut themselves, nor make themselves bald for them;
 \v 7 neither shall men break bread for them in mourning, to comfort them for the dead; neither shall men give them the cup of consolation to drink for their father or for their mother.
-\v 8 You shall not go into the house of feasting to sit with them, to eat and to drink.
-\v 9 For Yahweh of Armies, the God of Israel says: Behold, I will cause to cease out of this place, before your eyes and in your days, the voice of mirth and the voice of gladness, the voice of the bridegroom and the voice of the bride.
-\v 10 It shall happen, when you shall show this people all these words, and they shall tell you, Why has Yahweh pronounced all this great evil against us? or what is our iniquity? or what is our sin that we have committed against Yahweh our God?
-\v 11 Then you shall tell them, Because your fathers have forsaken me, says Yahweh, and have walked after other gods, and have served them, and have worshiped them, and have forsaken me, and have not kept my law;
-\v 12 and you have done evil more than your fathers; for, behold, you walk every one after the stubbornness of his evil heart, so that you don’t listen to me:
-\v 13 therefore will I cast you out of this land into the land that you have not known, neither you nor your fathers; and there you shall serve other gods day and night; for I will show you no favor.
-\v 14 Therefore behold, the days come, says Yahweh, that it shall no more be said, As Yahweh lives, who brought up the children of Israel out of the land of Egypt;
-\v 15 but, As Yahweh lives, who brought up the children of Israel from the land of the north, and from all the countries where he had driven them. I will bring them again into their land that I gave to their fathers.
-\v 16 Behold, I will send for many fishermen, says Yahweh, and they shall fish them up; and afterward I will send for many hunters, and they shall hunt them from every mountain, and from every hill, and out of the clefts of the rocks.
-\v 17 For my eyes are on all their ways; they are not hidden from my face, neither is their iniquity concealed from my eyes.
-\v 18 First I will recompense their iniquity and their sin double, because they have polluted my land with the carcasses of their detestable things, and have filled my inheritance with their abominations.
-\v 19 Yahweh, my strength, and my stronghold, and my refuge in the day of affliction, to you shall the nations come from the ends of the earth, and shall say, Our fathers have inherited nothing but lies, vanity and things in which there is no profit.
-\v 20 Shall a man make to himself gods, which yet are no gods?
-\v 21 Therefore behold, I will cause them to know, this once will I cause them to know my hand and my might; and they shall know that my name is Yahweh.
-\c 17
 \p
-\v 1 The sin of Judah is written with a pen of iron, and with the point of a diamond: it is engraved on the tablet of their heart, and on the horns of your altars;
-\v 2 while their children remember their altars and their Asherah poles by the green trees on the high hills.
-\v 3 My mountain in the field, I will give your substance and all your treasures for a plunder, and your high places, because of sin, throughout all your borders.
-\v 4 You, even of yourself, shall discontinue from your heritage that I gave you; and I will cause you to serve your enemies in the land which you don’t know: for you have kindled a fire in my anger which shall burn forever.
-\v 5 Yahweh says: Cursed is the man who trusts in man, and makes flesh his arm, and whose heart departs from Yahweh.
-\v 6 For he shall be like the heath in the desert, and shall not see when good comes, but shall inhabit the parched places in the wilderness, a salt land and not inhabited.
-\v 7 Blessed is the man who trusts in Yahweh, and whose trust Yahweh is.
-\v 8 For he shall be as a tree planted by the waters, who spreads out its roots by the river, and shall not fear when heat comes, but its leaf shall be green; and shall not be careful in the year of drought, neither shall cease from yielding fruit.
-\v 9 The heart is deceitful above all things, and it is exceedingly corrupt: who can know it?
-\v 10 I, Yahweh, search the mind, I try the heart, even to give every man according to his ways, according to the fruit of his doings.
-\v 11 As the partridge that sits on eggs which she has not laid, so is he who gets riches, and not by right; in the middle of his days they shall leave him, and at his end he shall be a fool.
-\v 12 A glorious throne, set on high from the beginning, is the place of our sanctuary.
-\v 13 Yahweh, the hope of Israel, all who forsake you shall be disappointed. Those who depart from me shall be written in the earth, because they have forsaken Yahweh, the spring of living waters.
-\v 14 Heal me, O Yahweh, and I shall be healed; save me, and I shall be saved: for you are my praise.
-\v 15 Behold, they tell me, Where is Yahweh’s word? let it come now.
-\v 16 As for me, I have not hurried from being a shepherd after you; neither have I desired the woeful day; you know: that which came out of my lips was before your face.
-\v 17 Don’t be a terror to me: you are my refuge in the day of evil.
-\v 18 Let them be disappointed who persecute me, but let not me be disappointed; let them be dismayed, but don’t let me be dismayed; bring on them the day of evil, and destroy them with double destruction.
-\v 19 Thus said Yahweh to me: Go, and stand in the gate of the children of the people, through which the kings of Judah come in, and by which they go out, and in all the gates of Jerusalem;
-\v 20 and tell them, Hear Yahweh’s word, you kings of Judah, and all Judah, and all the inhabitants of Jerusalem, that enter in by these gates:
-\v 21 Yahweh says, Be careful, and bear no burden on the Sabbath day, nor bring it in by the gates of Jerusalem;
+\v 8 “You shall not go into the house of feasting to sit with them, to eat and to drink.“
+\v 9 For Yahweh of Armies, the God of Israel says: “Behold, I will cause to cease out of this place, before your eyes and in your days, the voice of mirth and the voice of gladness, the voice of the bridegroom and the voice of the bride.
+\v 10 It shall happen, when you shall show this people all these words, and they ask you, ‘Why has Yahweh pronounced all this great evil against us?’ or ‘What is our iniquity? or ‘What is our sin that we have committed against Yahweh our God?’
+\v 11 Then you shall tell them, ‘Because your fathers have forsaken me,’ says Yahweh, ‘and have walked after other gods, and have served them, and have worshiped them, and have forsaken me, and have not kept my law;
+\v 12 and you have done evil more than your fathers; for, behold, you walk every one after the stubbornness of his evil heart, so that you don’t listen to me.
+\v 13 Therefore will I cast you out of this land into the land that you have not known, neither you nor your fathers; and there you shall serve other gods day and night; for I will show you no favor.’
+\p
+\v 14 “Therefore behold, the days come,” says Yahweh, “that it shall no more be said, ‘As Yahweh lives, who brought up the children of Israel out of the land of Egypt;’
+\v 15 but, ‘As Yahweh lives, who brought up the children of Israel from the land of the north, and from all the countries where he had driven them.’ I will bring them again into their land that I gave to their fathers.
+\p
+\v 16 “Behold, I will send for many fishermen,” says Yahweh, “and they shall fish them up; and afterward I will send for many hunters, and they shall hunt them from every mountain, and from every hill, and out of the clefts of the rocks.
+\v 17 For my eyes are on all their ways; they are not hidden from my face, neither is their iniquity concealed from my eyes.
+\v 18 First I will recompense their iniquity and their sin double, because they have polluted my land with the carcasses of their detestable things, and have filled my inheritance with their abominations.”
+\b
+\q1
+\v 19 Yahweh, my strength, and my stronghold,
+\q2 and my refuge in the day of affliction,
+\q1 to you shall the nations come from the ends of the earth,
+\q2 and shall say,
+\q1 “Our fathers have inherited nothing but lies,
+\q2 vanity and things in which there is no profit.
+\q1
+\v 20 Shall a man make to himself gods,
+\q2 which yet are no gods?”
+\b
+\q1
+\v 21 “Therefore behold, I will cause them to know,
+\q2 this once will I cause them to know my hand and my might;
+\q2 and they shall know that my name is Yahweh.”
+
+\c 17
+\q1
+\v 1 “The sin of Judah is written with a pen of iron,
+\q2 and with the point of a diamond.
+\q1 It is engraved on the tablet of their heart,
+\q2 and on the horns of your altars.
+\q1
+\v 2 Even their children remember their altars
+\q2 and their Asherah poles by the green trees on the high hills.
+\q1
+\v 3 My mountain in the field,
+\q2 I will give your substance and all your treasures for a plunder, 
+\q2 and your high places, because of sin, throughout all your borders.
+\q1
+\v 4 You, even of yourself, shall discontinue from your heritage that I gave you.
+\q2 I will cause you to serve your enemies in the land which you don’t know,
+\q2 for you have kindled a fire in my anger which shall burn forever.”
+\p
+\v 5 Yahweh says:
+\q1 “Cursed is the man who trusts in man,
+\q2 and makes flesh his arm,
+\q2 and whose heart departs from Yahweh.
+\q1
+\v 6 For he shall be like a bush in the desert,
+\q2 and shall not see when good comes,
+\q1 but shall inhabit the parched places in the wilderness,
+\q2 a salt land and not inhabited.
+\b
+\q1
+\v 7 “Blessed is the man who trusts in Yahweh,
+\q2 and whose confidence is in Yahweh.
+\q1
+\v 8 For he shall be as a tree planted by the waters,
+\q2 who spreads out its roots by the river,
+\q1 and shall not fear when heat comes,
+\q2 but its leaf shall be green;
+\q1 and shall not be careful in the year of drought,
+\q2 neither shall cease from yielding fruit.
+\q1
+\v 9 The heart is deceitful above all things,
+\q2 and it is exceedingly corrupt.
+\q2 Who can know it?
+\b
+\q1
+\v 10 “I, Yahweh, search the mind,
+\q2 I try the heart,
+\q1 even to give every man according to his ways,
+\q2 according to the fruit of his doings.”
+\b
+\q1
+\v 11 As the partridge that sits on eggs which she has not laid,
+\q2 so is he who gets riches, and not by right;
+\q1 in the middle of his days they shall leave him,
+\q2 and at his end he shall be a fool.
+\q1
+\v 12 A glorious throne, set on high from the beginning,
+\q2 is the place of our sanctuary.
+\q1
+\v 13 Yahweh, the hope of Israel,
+\q2 all who forsake you shall be disappointed.
+\q1 Those who depart from me shall be written in the earth,
+\q2 because they have forsaken Yahweh,
+\q2 the spring of living waters.
+\q1
+\v 14 Heal me, O Yahweh, and I shall be healed;
+\q2 save me, and I shall be saved:
+\q2 for you are my praise.
+\q1
+\v 15 Behold, they tell me,
+\q2 “Where is Yahweh’s word?
+\q2 Let it be fulfilled now.”
+\q1
+\v 16 As for me, I have not hurried from being a shepherd after you;
+\q2 neither have I desired the woeful day; you know.
+\q2 That which came out of my lips was before your face.
+\q1
+\v 17 Don’t be a terror to me:
+\q2 you are my refuge in the day of evil.
+\q1
+\v 18 Let them be disappointed who persecute me,
+\q2 but let not me be disappointed;
+\q1 let them be dismayed,
+\q2 but don’t let me be dismayed;
+\q1 bring on them the day of evil,
+\q2 and destroy them with double destruction.
+\p
+\v 19 Thus said Yahweh to me: “Go, and stand in the gate of the children of the people, through which the kings of Judah come in, and by which they go out, and in all the gates of Jerusalem;
+\v 20 and tell them, ‘Hear Yahweh’s word, you kings of Judah, and all Judah, and all the inhabitants of Jerusalem, that enter in by these gates:
+\v 21 Yahweh says, “Be careful, and bear no burden on the Sabbath day, nor bring it in by the gates of Jerusalem;
 \v 22 neither carry a burden out of your houses on the Sabbath day, neither do any work: but make the Sabbath day holy, as I commanded your fathers.
 \v 23 But they didn’t listen, neither turn their ear, but made their neck stiff, that they might not hear, and might not receive instruction.
-\v 24 It shall happen, if you diligently listen to me, says Yahweh, to bring in no burden through the gates of this city on the Sabbath day, but to make the Sabbath day holy, to do no work therein;
+\v 24 It shall happen, if you diligently listen to me,” says Yahweh, “to bring in no burden through the gates of this city on the Sabbath day, but to make the Sabbath day holy, to do no work therein;
 \v 25 then shall there enter in by the gates of this city kings and princes sitting on David’s throne, riding in chariots and on horses, they, and their princes, the men of Judah, and the inhabitants of Jerusalem; and this city shall remain forever.
 \v 26 They shall come from the cities of Judah, and from the places around Jerusalem, and from the land of Benjamin, and from the lowland, and from the hill country, and from the South, bringing burnt offerings, and sacrifices, and meal offerings, and frankincense, and bringing sacrifices of thanksgiving, to Yahweh’s house.
-\v 27 But if you will not listen to me to make the Sabbath day holy, and not to bear a burden and enter in at the gates of Jerusalem on the Sabbath day; then I will kindle a fire in its gates, and it shall devour the palaces of Jerusalem, and it shall not be quenched.
+\v 27 But if you will not listen to me to make the Sabbath day holy, and not to bear a burden and enter in at the gates of Jerusalem on the Sabbath day; then I will kindle a fire in its gates, and it shall devour the palaces of Jerusalem, and it shall not be quenched.”’”
+
 \c 18
 \p
 \v 1 The word which came to Jeremiah from Yahweh, saying,
-\v 2 Arise, and go down to the potter’s house, and there I will cause you to hear my words.
+\v 2 “Arise, and go down to the potter’s house, and there I will cause you to hear my words.”
+\p
 \v 3 Then I went down to the potter’s house, and behold, he was making a work on the wheels.
 \v 4 When the vessel that he made of the clay was marred in the hand of the potter, he made it again another vessel, as seemed good to the potter to make it.
+\p
 \v 5 Then Yahweh’s word came to me, saying,
-\v 6 House of Israel, can’t I do with you as this potter? says Yahweh. Behold, as the clay in the potter’s hand, so are you in my hand, house of Israel.
+\v 6 “House of Israel, can’t I do with you as this potter?” says Yahweh. “Behold, as the clay in the potter’s hand, so are you in my hand, house of Israel.
 \v 7 At what instant I shall speak concerning a nation, and concerning a kingdom, to pluck up and to break down and to destroy it;
 \v 8 if that nation, concerning which I have spoken, turn from their evil, I will repent of the evil that I thought to do to them.
 \v 9 At what instant I shall speak concerning a nation, and concerning a kingdom, to build and to plant it;
 \v 10 if they do that which is evil in my sight, that they not obey my voice, then I will repent of the good, with which I said I would benefit them.
-\v 11 Now therefore, speak to the men of Judah, and to the inhabitants of Jerusalem, saying, Yahweh says: Behold, I frame evil against you, and devise a device against you: return you now everyone from his evil way, and amend your ways and your doings.
-\v 12 But they say, It is in vain; for we will walk after our own devices, and we will do everyone after the stubbornness of his evil heart.
-\v 13 Therefore Yahweh says: Ask now among the nations, who has heard such things; the virgin of Israel has done a very horrible thing.
-\v 14 Shall the snow of Lebanon fail from the rock of the field? Shall the cold waters that flow down from afar be dried up?
-\v 15 For my people have forgotten me, they have burned incense to false gods; and they have been made to stumble in their ways, in the ancient paths, to walk in byways, in a way not built up;
-\v 16 to make their land an astonishment, and a perpetual hissing; everyone who passes thereby shall be astonished, and shake his head.
-\v 17 I will scatter them as with an east wind before the enemy; I will show them the back, and not the face, in the day of their calamity.
-\v 18 Then they said, Come, and let us devise devices against Jeremiah; for the law shall not perish from the priest, nor counsel from the wise, nor the word from the prophet. Come, and let us strike him with the tongue, and let us not give heed to any of his words.
-\v 19 Give heed to me, Yahweh, and listen to the voice of those who contend with me.
-\v 20 Shall evil be recompensed for good? for they have dug a pit for my soul. Remember how I stood before you to speak good for them, to turn away your wrath from them.
-\v 21 Therefore deliver up their children to the famine, and give them over to the power of the sword; and let their wives become childless, and widows; and let their men be slain of death, and their young men struck of the sword in battle.
-\v 22 Let a cry be heard from their houses, when you shall bring a troop suddenly on them; for they have dug a pit to take me, and hid snares for my feet.
-\v 23 Yet, Yahweh, you know all their counsel against me to kill me; don’t forgive their iniquity, neither blot out their sin from your sight; but let them be overthrown before you; deal you with them in the time of your anger.
+\p
+\v 11 “Now therefore, speak to the men of Judah, and to the inhabitants of Jerusalem, saying, ‘Yahweh says: “Behold, I frame evil against you, and devise a device against you. Everyone return from his evil way now, and amend your ways and your doings.”’
+\v 12 But they say, ‘It is in vain; for we will walk after our own devices, and we will do everyone after the stubbornness of his evil heart.’”
+\p
+\v 13 Therefore Yahweh says:
+\q1 “Ask now among the nations,
+\q2 who has heard such things.
+\q2 The virgin of Israel has done a very horrible thing.
+\q1
+\v 14 Shall the snow of Lebanon fail from the rock of the field?
+\q2 Shall the cold waters that flow down from afar be dried up?
+\q1
+\v 15 For my people have forgotten me.
+\q2 They have burned incense to false gods.
+\q1 They have been made to stumble in their ways,
+\q2 in the ancient paths,
+\q2 to walk in byways, in a way not built up;
+\q1
+\v 16 to make their land an astonishment,
+\q2 and a perpetual hissing.
+\q1 Everyone who passes thereby shall be astonished,
+\q2 and shake his head.
+\q1
+\v 17 I will scatter them as with an east wind before the enemy.
+\q2 I will show them the back, and not the face,
+\q2 in the day of their calamity.
+\p
+\v 18 Then they said, “Come, and let us devise devices against Jeremiah; for the law shall not perish from the priest, nor counsel from the wise, nor the word from the prophet. Come, and let us strike him with the tongue, and let us not give heed to any of his words.”
+\q1
+\v 19 Give heed to me, Yahweh,
+\q2 and listen to the voice of those who contend with me.
+\q1
+\v 20 Shall evil be recompensed for good?
+\q2 For they have dug a pit for my soul.
+\q1 Remember how I stood before you to speak good for them,
+\q2 to turn away your wrath from them.
+\q1
+\v 21 Therefore deliver up their children to the famine,
+\q2 and give them over to the power of the sword.
+\q1 Let their wives become childless, and widows;
+\q2 and let their men be slain of death,
+\q2 and their young men struck by the sword in battle.
+\q1
+\v 22 Let a cry be heard from their houses,
+\q2 when you shall bring a troop suddenly on them;
+\q1 for they have dug a pit to take me,
+\q2 and hidden snares for my feet.
+\q1
+\v 23 Yet, Yahweh, you know all their counsel against me to kill me.
+\q2 Don’t forgive their iniquity,
+\q2 neither blot out their sin from your sight;
+\q1 but let them be overthrown before you.
+\q2 Deal you with them in the time of your anger.
+
 \c 19
 \p
-\v 1 Thus said Yahweh, Go, and buy a potter’s earthen bottle, and take some of the elders of the people, and of the elders of the priests;
+\v 1 Thus said Yahweh, “Go, and buy a potter’s earthen bottle, and take some of the elders of the people, and of the elders of the priests;
 \v 2 and go out to the valley of the son of Hinnom, which is by the entry of the gate Harsith, and proclaim there the words that I shall tell you;
-\v 3 and say, Hear Yahweh’s word, kings of Judah, and inhabitants of Jerusalem: Yahweh of Armies, the God of Israel says, Behold, I will bring evil on this place, which whoever hears, his ears shall tingle.
+\v 3 and say, ‘Hear Yahweh’s word, kings of Judah, and inhabitants of Jerusalem: Yahweh of Armies, the God of Israel says, “Behold, I will bring evil on this place, which whoever hears, his ears shall tingle.
 \v 4 Because they have forsaken me, and have estranged this place, and have burned incense in it to other gods, that they didn’t know, they and their fathers and the kings of Judah; and have filled this place with the blood of innocents,
 \v 5 and have built the high places of Baal, to burn their sons in the fire for burnt offerings to Baal; which I didn’t command, nor spoke it, neither came it into my mind:
-\v 6 therefore, behold, the days come, says Yahweh, that this place shall no more be called Topheth, nor The valley of the son of Hinnom, but The valley of Slaughter.
-\v 7 I will make void the counsel of Judah and Jerusalem in this place; and I will cause them to fall by the sword before their enemies, and by the hand of those who seek their life: and their dead bodies will I give to be food for the birds of the sky, and for the animals of the earth.
+\v 6 therefore, behold, the days come,” says Yahweh, “that this place shall no more be called Topheth, nor The valley of the son of Hinnom, but The valley of Slaughter.
+\p
+\v 7 “‘“I will make void the counsel of Judah and Jerusalem in this place; and I will cause them to fall by the sword before their enemies, and by the hand of those who seek their life: and their dead bodies will I give to be food for the birds of the sky, and for the animals of the earth.
 \v 8 I will make this city an astonishment, and a hissing; everyone who passes thereby shall be astonished and hiss because of all its plagues.
-\v 9 I will cause them to eat the flesh of their sons and the flesh of their daughters; and they shall eat everyone the flesh of his friend, in the siege and in the distress, with which their enemies, and those who seek their life, shall distress them.
-\v 10 Then you shall break the bottle in the sight of the men who go with you,
-\v 11 and shall tell them, Yahweh of Armies says: Even so will I break this people and this city, as one breaks a potter’s vessel, that can’t be made whole again; and they shall bury in Topheth, until there is no place to bury.
-\v 12 Thus will I do to this place, says Yahweh, and to its inhabitants, even making this city as Topheth:
-\v 13 and the houses of Jerusalem, and the houses of the kings of Judah, which are defiled, shall be as the place of Topheth, even all the houses on whose roofs they have burned incense to all the army of the sky, and have poured out drink offerings to other gods.
-\v 14 Then came Jeremiah from Topheth, where Yahweh had sent him to prophesy; and he stood in the court of Yahweh’s house, and said to all the people:
-\v 15 Yahweh of Armies, the God of Israel says, Behold, I will bring on this city and on all its towns all the evil that I have pronounced against it; because they have made their neck stiff, that they may not hear my words.
+\v 9 I will cause them to eat the flesh of their sons and the flesh of their daughters; and they shall eat everyone the flesh of his friend, in the siege and in the distress, with which their enemies, and those who seek their life, shall distress them.”’
+\p
+\v 10 “Then you shall break the bottle in the sight of the men who go with you,
+\v 11 and shall tell them, ‘Yahweh of Armies says: “Even so will I break this people and this city, as one breaks a potter’s vessel, that can’t be made whole again; and they shall bury in Topheth, until there is no place to bury.
+\v 12 Thus will I do to this place,” says Yahweh, “and to its inhabitants, even making this city as Topheth:
+\v 13 and the houses of Jerusalem, and the houses of the kings of Judah, which are defiled, shall be as the place of Topheth, even all the houses on whose roofs they have burned incense to all the army of the sky, and have poured out drink offerings to other gods.”’”
+\p
+\v 14 Then Jeremiah came from Topheth, where Yahweh had sent him to prophesy; and he stood in the court of Yahweh’s house, and said to all the people:
+\v 15 “Yahweh of Armies, the God of Israel says, ‘Behold, I will bring on this city and on all its towns all the evil that I have pronounced against it; because they have made their neck stiff, that they may not hear my words.’”
 \c 20
 \p
 \v 1 Now Pashhur, the son of Immer the priest, who was chief officer in Yahweh’s house, heard Jeremiah prophesying these things.
 \v 2 Then Pashhur struck Jeremiah the prophet, and put him in the stocks that were in the upper gate of Benjamin, which was in Yahweh’s house.
-\v 3 On the next day, Pashhur released Jeremiah out of the stocks. Then Jeremiah said to him, Yahweh has not called your name Pashhur, but Magormissabib.
-\v 4 For Yahweh says, Behold, I will make you a terror to yourself, and to all your friends; and they shall fall by the sword of their enemies, and your eyes shall see it; and I will give all Judah into the hand of the king of Babylon, and he shall carry them captive to Babylon, and shall kill them with the sword.
+\v 3 On the next day, Pashhur released Jeremiah out of the stocks. Then Jeremiah said to him, “Yahweh has not called your name Pashhur, but Magormissabib.
+\v 4 For Yahweh says, ‘Behold, I will make you a terror to yourself, and to all your friends; and they shall fall by the sword of their enemies, and your eyes shall see it; and I will give all Judah into the hand of the king of Babylon, and he shall carry them captive to Babylon, and shall kill them with the sword.
 \v 5 Moreover I will give all the riches of this city, and all its gains, and all the precious things of it, yes, all the treasures of the kings of Judah will I give into the hand of their enemies; and they shall make them captives, and take them, and carry them to Babylon.
-\v 6 You, Pashhur, and all who dwell in your house shall go into captivity; and you shall come to Babylon, and there you shall die, and there you shall be buried, you, and all your friends, to whom you have prophesied falsely.
-\v 7 Yahweh, you have persuaded me, and I was persuaded; you are stronger than I, and have prevailed: I am become a laughing-stock all the day, every one mocks me.
-\v 8 For as often as I speak, I cry out; I cry, Violence and destruction! because Yahweh’s word is made a reproach to me, and a derision, all the day.
-\v 9 If I say, I will not make mention of him, nor speak any more in his name, then there is in my heart as it were a burning fire shut up in my bones, and I am weary with forbearing, and I can’t.
-\v 10 For I have heard the defaming of many, terror on every side. Denounce, and we will denounce him, say all my familiar friends, those who watch for my fall; perhaps he will be persuaded, and we shall prevail against him, and we shall take our revenge on him.
-\v 11 But Yahweh is with me as an awesome mighty one: therefore my persecutors shall stumble, and they shall not prevail; they shall be utterly disappointed, because they have not dealt wisely, even with an everlasting dishonor which shall never be forgotten.
-\v 12 But, Yahweh of Armies, who tests the righteous, who sees the heart and the mind, let me see your vengeance on them; for to you have I revealed my cause.
-\v 13 Sing to Yahweh, praise Yahweh; for he has delivered the soul of the needy from the hand of evildoers.
-\v 14 Cursed is the day in which I was born: don’t let the day in which my mother bore me be blessed.
-\v 15 Cursed is the man who brought news to my father, saying, A boy is born to you; making him very glad.
-\v 16 Let that man be as the cities which Yahweh overthrew, and didn’t repent: and let him hear a cry in the morning, and shouting at noontime;
-\v 17 because he didn’t kill me from the womb; and so my mother would have been my grave, and her womb always great.
-\v 18 Why did I come out of the womb to see labor and sorrow, that my days should be consumed with shame?
+\v 6 You, Pashhur, and all who dwell in your house shall go into captivity; and you shall come to Babylon, and there you shall die, and there you shall be buried, you, and all your friends, to whom you have prophesied falsely.’”
+\b
+\q1
+\v 7 Yahweh, you have persuaded me, and I was persuaded;
+\q2 you are stronger than I, and have prevailed.
+\q1 I have become a laughing-stock all day.
+\q2 Every one mocks me.
+\q1
+\v 8 For as often as I speak, I cry out;
+\q2 I cry, Violence and destruction!
+\q1 because Yahweh’s word has been made a reproach to me,
+\q2 and a derision, all day.
+\q1
+\v 9 If I say, I will not make mention of him,
+\q2 nor speak any more in his name,
+\q1 then there is in my heart as it were a burning fire shut up in my bones,
+\q2 and I am weary with holding it in,
+\q2 and I can’t.
+\q1
+\v 10 For I have heard the defaming of many,
+\q2 “Terror on every side!
+\q2 Denounce, and we will denounce him!”
+\q1 say all my familiar friends,
+\q2 those who watch for my fall.
+\q1 “Perhaps he will be persuaded,
+\q2 and we shall prevail against him,
+\q2 and we shall take our revenge on him.”
+\q1
+\v 11 But Yahweh is with me as an awesome mighty one.
+\q2 Therefore my persecutors shall stumble,
+\q2 and they shall not prevail.
+\q1 They shall be utterly disappointed,
+\q2 because they have not dealt wisely,
+\q2 even with an everlasting dishonor which shall never be forgotten.
+\q1
+\v 12 But, Yahweh of Armies, who tests the righteous,
+\q2 who sees the heart and the mind,
+\q1 let me see your vengeance on them;
+\q2 for to you have I revealed my cause.
+\q1
+\v 13 Sing to Yahweh,
+\q2 praise Yahweh;
+\q2 for he has delivered the soul of the needy from the hand of evildoers.
+\q1
+\v 14 Cursed is the day in which I was born.
+\q2 Don’t let the day in which my mother bore me be blessed.
+\q1
+\v 15 Cursed is the man who brought news to my father, saying,
+\q2 “A boy is born to you,” making him very glad.
+\q1
+\v 16 Let that man be as the cities which Yahweh overthrew,
+\q2 and didn’t repent.
+\q1 Let him hear a cry in the morning,
+\q2 and shouting at noontime;
+\q1
+\v 17 because he didn’t kill me from the womb;
+\q2 and so my mother would have been my grave,
+\q2 and her womb always great.
+\q1
+\v 18 Why did I come out of the womb to see labor and sorrow,
+\q2 that my days should be consumed with shame?
+
 \c 21
 \p
 \v 1 The word which came to Jeremiah from Yahweh, when king Zedekiah sent to him Pashhur the son of Malchijah, and Zephaniah the son of Maaseiah, the priest, saying,
