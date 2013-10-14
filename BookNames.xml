@@ -1,7 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE BookNames>
 <BookNames>
-  <book code="FRT" abbr="Pre" short="Preface" long="Preface" alt="" />
   <book code="GEN" abbr="Gen" short="Genesis" long="The First Book of Moses, Commonly Called Genesis" alt="" />
   <book code="EXO" abbr="Exo" short="Exodus" long="The Second Book of Moses, Commonly Called Exodus" alt="" />
   <book code="LEV" abbr="Lev" short="Leviticus" long="The Third Book of Moses, Commonly Called Leviticus" alt="" />
@@ -90,5 +89,4 @@
   <book code="3JN" abbr="3Jn" short="3 John" long="John’s Third Letter" alt="" />
   <book code="JUD" abbr="Jud" short="Jude" long="The Letter from Jude" alt="" />
   <book code="REV" abbr="Rev" short="Revelation" long="The Revelation to John" alt="" />
-  <book code="GLO" abbr="Glo" short="Glossary" long="World English Bible Glossary" alt="" />
 </BookNames>
