@@ -1,0 +1,3 @@
+This is a place for preserving the World English Bible source text and source code of the programs used to process it through the open revision process. The software portion is released under the GNU Lesser Public License. The text of the World English Bible is in the Public Domain.
+
+For more information on the [World English Bible](http://worldenglishbible.org) see the [Frequently Asked Questions.](http://eBible.org/web/webfaq.htm) The [World English Bible: Messianic Edition](http://hnvbible.org) is also part of this project. The master download page for the World English Bible is at [http://eBible.org/web/](http://eBible.org/web/).
